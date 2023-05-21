@@ -1,12 +1,7 @@
 <h1 align="center">Hola soy Ángel Picado Cuadrado</h1>
 <h3 align="center">Estudiante de Ingeniería Informática en la USAL 💻​</h3>
 
-
-- 🔭 Actualmente estoy mejorando [PDFTools](https://github.com/angelcubo01/PDFTools)
-
-- 🌱 Actualmente estoy aprendiendo **Swift**
-
-- 👨‍💻 Mis proyectos en [angelpicado.tk](https://angelpicado.tk)
+- 🌱 Actualmente estoy aprendiendo **Salesforce**
 
 - 📫 Contacta conmigo **angelpicadocuadrado@gmail.com**
 
