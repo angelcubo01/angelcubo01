@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="64" height="64" alt="Salesforce"/>
-
 # Ángel Picado Cuadrado
 
 ### Salesforce Developer · Apex · LWC · Copado · Agentforce
@@ -37,7 +35,7 @@ Ordered by relevance to my current role. Full profile: [Trailblazer · angelpica
 
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
-| <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/agentforce-specialist.png" width="110" alt="Agentforce Specialist"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-app-builder.png" width="110" alt="Platform App Builder"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-administrator.png" width="110" alt="Platform Administrator"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/copado-ai-certified.png" width="250" alt="Copado AI Certified"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-foundations.png" width="110" alt="Platform Foundations"/></a> |
+| <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/agentforce-specialist.png" width="110" alt="Agentforce Specialist"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-app-builder.png" width="110" alt="Platform App Builder"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-administrator.png" width="110" alt="Platform Administrator"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/copado-ai-certified.png" width="115" alt="Copado AI Certified"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-foundations.png" width="110" alt="Platform Foundations"/></a> |
 | **Agentforce Specialist** | **Platform App Builder** | **Platform Administrator** | **Copado AI Certified** | **Platform Foundations** |
 | Nov 2025 | Sep 2025 | Jun 2024 | Apr 2026 | May 2023 |
 
