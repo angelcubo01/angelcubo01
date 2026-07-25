@@ -37,7 +37,7 @@ Ordered by relevance to my current role. Full profile: [Trailblazer · angelpica
 
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
-| <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/agentforce-specialist.png" width="110" alt="Agentforce Specialist"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-app-builder.png" width="110" alt="Platform App Builder"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-administrator.png" width="110" alt="Platform Administrator"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/copado-ai-certified.png" width="110" alt="Copado AI Certified"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-foundations.png" width="110" alt="Platform Foundations"/></a> |
+| <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/agentforce-specialist.png" width="110" alt="Agentforce Specialist"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-app-builder.png" width="110" alt="Platform App Builder"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-administrator.png" width="110" alt="Platform Administrator"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/copado-ai-certified.png" width="250" alt="Copado AI Certified"/></a> | <a href="https://www.salesforce.com/trailblazer/angelpicado01"><img src="assets/certs/platform-foundations.png" width="110" alt="Platform Foundations"/></a> |
 | **Agentforce Specialist** | **Platform App Builder** | **Platform Administrator** | **Copado AI Certified** | **Platform Foundations** |
 | Nov 2025 | Sep 2025 | Jun 2024 | Apr 2026 | May 2023 |
 
@@ -85,26 +85,12 @@ VS Code / Cursor extension that warns before you overwrite a teammate’s Salesf
   <a href="https://github.com/angelcubo01/sf-deploy-guard">
     <img src="https://raw.githubusercontent.com/angelcubo01/sf-deploy-guard/main/images/banner.jpg" alt="SF Deploy Guard banner" width="820"/>
   </a>
-  <br/><br/>
-  <a href="https://github.com/angelcubo01/sf-deploy-guard">
-    <img src="https://raw.githubusercontent.com/angelcubo01/sf-deploy-guard/main/images/conflict-dialog.jpg" alt="SF Deploy Guard conflict dialog" width="720"/>
-  </a>
+
 </div>
 
 #### CountingDown
 
 Capstone project (TFG) with **HP SCDS** — web app for personalized raffle ballot numbering. Grade **9/10**.
-
----
-
-### GitHub stats
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=angelcubo01&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcubo01&layout=compact&theme=default&hide_border=true&hide_title=true" alt="Top languages"/>
-
-</div>
 
 ---
 
